@@ -15,8 +15,8 @@
 			<repository location="https://dl.bintray.com/pmd/pmd-eclipse-plugin/updates/"/>
 		</location>
 		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-			<unit id="edu.umd.cs.findbugs.plugin.eclipse.feature.group" version="0.0.0"/>
-			<repository location="http://findbugs.cs.umd.edu/eclipse/"/>
+			<unit id="com.github.spotbugs.plugin.eclipse.feature.group" version="3.1.6.r201807182348-e76b799"/>
+			<repository location="https://spotbugs.github.io/eclipse/"/>
 		</location>
 		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 			<unit id="net.sf.eclipsecs.feature.group" version="0.0.0"/>
