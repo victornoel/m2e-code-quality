@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <associateSites>
-  <associateSite url="http://eclipse-cs.sourceforge.net/update" label="eclipse checkstyle" />
+  <associateSite url="https://dl.bintray.com/eclipse-cs/eclipse-cs/8.0.0/" label="eclipse checkstyle" />
   <associateSite url="https://dl.bintray.com/pmd/pmd-eclipse-plugin/updates/" label="eclipse pmd" />
   <associateSite url="https://spotbugs.github.io/eclipse/" label="eclipse spotbugs" />
 </associateSites>
